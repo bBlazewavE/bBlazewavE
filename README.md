@@ -6,7 +6,7 @@ class Dimple:
     experience = "8 years of Python (and still learning)"
     currently_building = "A whole programming language. Because why not."
     location = "Brazil 🇧🇷"
-    hobbies = ["ukulele 🎸", "learning to ride a bike 🚴 (yes, as an adult)", "running 🏃"]
+    hobbies = ["ukulele 🎸", "learning to ride a motor bike 🏍️ (yes, as an adult)", "running 🏃"]
     
     def weekday(self):
         return "writing Python, reading Go, pretending to understand distributed systems"
