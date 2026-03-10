@@ -2,40 +2,52 @@
 
 ```python
 class Dimple:
-    role = "Senior Software Engineer (Staff loading... ██████░░░░ 60%)"
-    experience = "8 years of Python (and still learning)"
-    currently_building = "A whole programming language. Because why not."
+    role = "Senior Software Engineer"
+    experience = "8 years of building things that break at 3 AM"
     location = "Brazil 🇧🇷"
-    hobbies = ["ukulele 🎸", "learning to ride a motor bike 🏍️ (yes, as an adult)", "running 🏃"]
+    hobbies = ["ukulele 🎸", "learning to ride a bike 🏍️", "running 🏃"]
     
     def weekday(self):
-        return "writing Python, reading Go, pretending to understand distributed systems"
+        return "building monitoring systems, writing Python, reading Go"
     
     def weekend(self):
-        return "building Arc, contributing to OSS, questioning life choices"
+        return "contributing to OSS, deep-diving CPython internals, blogging"
 ```
 
-## 🔥 Things I've Built (or Am Building)
+## 🔥 Things I've Built
 
-- ⚡ [**Arc**](https://github.com/bBlazewavE/arc) — A statically-typed programming language. Built the lexer, parser, type checker, and interpreter from scratch in Go. Yes, I'm building a language before I'm fluent in the language I'm building it in. This is fine.
+- 🐍🔍 [**Python Patrol**](https://github.com/bBlazewavE/python-patrol) — GitHub Action for Python static analysis. Posts inline PR fix suggestions with CPython 3.12 performance benchmarks. 15 AST-based rules, zero dependencies.
 
-- 🐍 [**Pydantic Contributor**](https://github.com/pydantic/pydantic-extra-types/pull/368) — Migrated 11 DSN types for the V3 release. My first OSS contribution. The CI failed 3 times. I did not cry. (I cried a little.)
+- 🔬 [**py-deep-dive**](https://github.com/bBlazewavE/py-deep-dive) — CPython internals deep dives: how dicts, lists, objects, and memory actually work under the hood. With runnable exploration scripts.
+
+- ⚡ [**Arc**](https://github.com/bBlazewavE/arc) — A statically-typed programming language. Lexer → Parser → Type Checker → Interpreter, built from scratch in Go.
+
+## 🤝 Open Source
+
+- [**Pydantic**](https://github.com/pydantic/pydantic-extra-types/pull/368) — Migrated 11 DSN types for V3 release (merged)
+- [**CPython**](https://github.com/python/cpython/pull/144665) — Documentation improvements for heapq module
+- [**SQLModel**](https://github.com/fastapi/sqlmodel/pull/1802) — Docs for unique & check constraints
 
 ## 🛠️ The Arsenal
 
-![Python](https://img.shields.io/badge/Python-Fluent-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Yes-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Yes-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Yes-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Copy_Paste_Expert-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📚 Currently
+## 📚 Currently Reading
 
-- 📖 Reading *Thinking, Fast and Slow* — turns out my brain has bugs too
-- 📖 Reading *A Philosophy of Software Design* — complexity is the enemy
-- 🧠 Learning system design so I can draw boxes and arrows in interviews
-- 🤖 Exploring AI/ML because apparently we all need to now
+- 📖 *Thinking, Fast and Slow* — turns out my brain has bugs too
+- 📖 *A Philosophy of Software Design* — complexity is the enemy
+- 📖 *Designing Data-Intensive Applications* — the infrastructure bible
+
+## ✍️ Writing
+
+I blog about Python internals and engineering at [**d.log**](https://techinsighthubpy.blog) — latest: [How Python Dicts Actually Work](https://techinsighthubpy.blog/2026/03/07/how-python-dicts-actually-work-and-why-you-should-care/)
 
 ## 📊 The Numbers
 
@@ -45,10 +57,8 @@ class Dimple:
 
 ## 💬 Philosophy
 
-> *"The best engineers don't just write code — they understand systems. And then they break them. And then they fix them at 3 AM."*
-
-> *"I don't always test my code, but when I do, I do it in production."* — not me, I swear
+> *"The best engineers don't just use tools — they understand how the tools work."*
 
 ---
 
-🚀 *Currently open to Staff Engineer roles. If your company values engineers who ask "but why?" too many times, we should talk.*
+📫 *Want to chat? Find me on [LinkedIn](https://linkedin.com/in/dimplemathew) or check out [my blog](https://techinsighthubpy.blog/me/).*
