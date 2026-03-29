@@ -18,9 +18,9 @@ Based in Brazil.
 
 ### Open source contributions
 
-- [**CPython**](https://github.com/python/cpython) &mdash; core language improvements &ensp;([PR](https://github.com/python/cpython/pull/144665))
-- [**Pydantic**](https://github.com/pydantic/pydantic-extra-types) &mdash; data validation and type extensions &ensp;([PR](https://github.com/pydantic/pydantic-extra-types/pull/368))
-- [**SQLModel**](https://github.com/fastapi/sqlmodel) &mdash; SQL database integration for FastAPI &ensp;([PR](https://github.com/fastapi/sqlmodel/pull/1802))
+- [**CPython**](https://github.com/python/cpython) &mdash; core language improvements
+- [**Pydantic**](https://github.com/pydantic/pydantic-extra-types) &mdash; data validation and type extensions
+- [**SQLModel**](https://github.com/fastapi/sqlmodel) &mdash; SQL database integration for FastAPI
 
 ### Stack
 
