@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dimple Mathew
+# Hi there! 👋 I'm Dimple
 
 ## 🎯 Senior Python Engineer | 8+ Years Experience | Targeting Staff Engineer Roles
 
