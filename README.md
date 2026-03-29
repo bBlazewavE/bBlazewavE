@@ -36,18 +36,7 @@ Building scalable systems and contributing to open source. Passionate about clea
 
 ---
 
-## 🌟 Featured Project
-
-### [Albuma](https://github.com/bBlazewavE/albuma) - LLM-Powered Photo Album Q&A
-*Private Repository - Available for Demo*
-
-- **Description:** Upload photos and ask questions about them using Large Language Models
-- **Tech Stack:** Python, LLMs, Computer Vision
-- **Innovation:** Combines image processing with natural language understanding for intelligent photo querying
-
----
-
-## 🔥 Other Projects
+## 🔥 Projects
 
 <div align="center">
   <a href="https://github.com/bBlazewavE/python-patrol">
@@ -91,3 +80,4 @@ Contributing to the Python ecosystem and helping build better tools for develope
 ---
 
 *Always open to discussing interesting engineering challenges, system architecture, and opportunities to build impactful software.*
+
