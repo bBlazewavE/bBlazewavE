@@ -2,7 +2,7 @@
 
 ## 🎯 Senior Python Engineer | 8+ Years Experience | Targeting Staff Engineer Roles
 
-Building scalable systems and contributing to open source. Passionate about clean code, system architecture, and engineering excellence.
+Python developer who likes building things and understanding how they work under the hood.
 
 ---
 
