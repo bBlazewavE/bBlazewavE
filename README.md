@@ -2,7 +2,7 @@
 
 ## 🎯 Senior Python Engineer | 8+ Years Experience | Targeting Staff Engineer Roles
 
-Software engineer. I build things and dig into how they work under the hood.
+
 
 ---
 
